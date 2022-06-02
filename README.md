@@ -10,3 +10,13 @@ PadiFactory :
 Init Code Hash: 
 0x08ec9410e2a709256cb232f7b52afc022b8732eef497ecc6fbc6d51ec3081040<br>
 </p>
+
+
+Fantom (FTM)<br>
+PadiRouter : 
+<a target="_blank" href="https://ftmscan.com/address/0x00f409141B837214002EA2f685A5BB6fc3BD891e#code">0x00f409141B837214002EA2f685A5BB6fc3BD891e</a><br>
+PadiFactory : 
+<a target="_blank" href="https://ftmscan.com/address/0x2162C779A762e30FF75EF5aF27F6C72C64773AA2#code">0x2162C779A762e30FF75EF5aF27F6C72C64773AA2</a><br>
+Init Code Hash: 
+0x1242e4772b58904a0a18c6b9d9f26a158ea76a118df591e031b85f6af7afc1eb<br>
+</p>
