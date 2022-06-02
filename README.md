@@ -20,3 +20,13 @@ PadiFactory :
 Init Code Hash: 
 0x1242e4772b58904a0a18c6b9d9f26a158ea76a118df591e031b85f6af7afc1eb<br>
 </p>
+
+Polygon (Matic)<br>
+PadiRouter : 
+<a target="_blank" href="http://polygonscan.com/address/0x1Ba4a2cde2C487b3E41019731907BE964F296b06#code">0x1Ba4a2cde2C487b3E41019731907BE964F296b06</a><br>
+PadiFactory : 
+<a target="_blank" href="http://polygonscan.com/0x0B8F1688C2882Dd3226ccCAc82F0a7afF8F535e4#code">0x0B8F1688C2882Dd3226ccCAc82F0a7afF8F535e4</a><br>
+Init Code Hash: 
+0x4a78755b05d800a19b5b2c5fcc7614cfe797176ee18c8d00b15f7e4c2f168e8b<br>
+</p>
+
