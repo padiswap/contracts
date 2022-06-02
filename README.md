@@ -30,3 +30,11 @@ Init Code Hash:
 0x4a78755b05d800a19b5b2c5fcc7614cfe797176ee18c8d00b15f7e4c2f168e8b<br>
 </p>
 
+Celo (Celo)<br>
+PadiRouter : 
+<a target="_blank" href="https://explorer.celo.org/address/0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14/transactions">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
+PadiFactory : 
+<a target="_blank" href="https://explorer.celo.org/address/0x78491C44FC63067B19E1Ba4EeF379f358123B552/transactions">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
+Init Code Hash: 
+0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
+</p>
