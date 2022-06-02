@@ -38,3 +38,12 @@ PadiFactory :
 Init Code Hash: 
 0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
 </p>
+
+Harmony (ONE)<br>
+PadiRouter : 
+<a target="_blank" href="https://explorer.harmony.one/address/0x06daD21f11d7b700605a1012f89d97273aEA1fF9?activeTab=7">0x06daD21f11d7b700605a1012f89d97273aEA1fF9</a><br>
+PadiFactory : 
+<a target="_blank" href="https://explorer.harmony.one/address/0x9a2373b025823496890459bE0b4e279754F2d068?activeTab=7">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
+Init Code Hash: 
+0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
+</p>
