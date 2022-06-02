@@ -47,3 +47,12 @@ PadiFactory :
 Init Code Hash: 
 0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
 </p>
+
+Velas (VLX)<br>
+PadiRouter : 
+<a target="_blank" href="https://evmexplorer.velas.com/address/0xE3880F733E22dD3ffC6822D542448c5ce0C2375B/transactions">0xE3880F733E22dD3ffC6822D542448c5ce0C2375B</a><br>
+PadiFactory : 
+<a target="_blank" href="https://evmexplorer.velas.com/address/0x06daD21f11d7b700605a1012f89d97273aEA1fF9/transactions">0x06daD21f11d7b700605a1012f89d97273aEA1fF9</a><br>
+Init Code Hash: 
+0xb9c12379eca48c6b53c01068f2cfc75960db374e60a722f532f0d2099df0567e<br>
+</p>
