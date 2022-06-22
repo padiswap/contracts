@@ -56,3 +56,12 @@ PadiFactory :
 Init Code Hash: 
 0xb9c12379eca48c6b53c01068f2cfc75960db374e60a722f532f0d2099df0567e<br>
 </p>
+
+Boba Rinkeby Testnet<br>
+PadiRouter : 
+<a target="_blank" href="https://blockexplorer.rinkeby.boba.network/tokens/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207/token-transfers">0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207</a><br>
+PadiFactory : 
+<a target="_blank" href="https://blockexplorer.rinkeby.boba.network/tokens/0x4cb70De91e6Bb85fB132880D5Af3418477a90083/token-transfers">0x4cb70De91e6Bb85fB132880D5Af3418477a90083</a><br>
+Init Code Hash: 
+0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
+</p>
