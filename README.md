@@ -1,8 +1,19 @@
 <p># Contracts<br>
 <br>
-Binance (BSC)<br>
-Padi Swap: 
+Padi Swap (BSC): 
 <a target="_blank" href="https://bscscan.com/token/0x1c2ddb78f1fbde389d15acd275ce6b51eafbba14">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
+<br>
+Ganesha (Harmony): 
+<a target="_blank" href="https://explorer.harmony.one/address/0x407020022e693595b0d52520a8402dcaf0ff6066?activeTab=7">0x407020022e693595b0D52520A8402dcAF0ff6066</a><br>
+  
+Sweta Dwipa (CELO): 
+<a target="_blank" href="https://explorer.celo.org/token/0x5c68fB7B31D4B0d0208D75057fbdcCc949531f59/token-transfers">0x5c68fB7B31D4B0d0208D75057fbdcCc949531f59</a><br>
+<br> 
+Tokai Token (VELAS)
+<a target="_blank" href="https://evmexplorer.velas.com/token/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207/token-transfers">0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207</a><br>
+Padi USD (VELAS)
+<a target="_blank" href="https://evmexplorer.velas.com/token/0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407/token-transfers">0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407</a><br>
+<br>    
 PadiRouter : 
 <a target="_blank" href="https://bscscan.com/address/0xB968803EB0D91C25C8d586b102752eeFd6e76E1F#code">0xB968803EB0D91C25C8d586b102752eeFd6e76E1F</a><br>
 PadiFactory : 
@@ -77,9 +88,12 @@ Init Code Hash:
 
 Cube Network Testnet<br>
 PadiRouter : 
-<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14?tab=Contract">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
+<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
 PadiFactory : 
-<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x78491c44fc63067b19e1ba4eef379f358123b552?tab=Contract">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
+<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x78491c44fc63067b19e1ba4eef379f358123b552">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
 Init Code Hash: 
 0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
+Multicall2: <a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x5f5503c1762b20cf3f5c0338d878d50a1cef0001">0x5F5503c1762b20cf3f5C0338d878D50a1cEF0001</a><br>
+Padi USD (Testnet)
+<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x78491c44fc63067b19e1ba4eef379f358123b552">0x4cb70De91e6Bb85fB132880D5Af3418477a90083</a><br>
 </p>
