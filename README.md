@@ -68,7 +68,7 @@ Init Code Hash:
 
 SmartBCH Testnet<br>
 PadiRouter : 
-<a target="_blank" href="[https://www.smartscan.cash/address/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207">0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207</a><br>
+<a target="_blank" href="https://www.smartscan.cash/address/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207">0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207</a><br>
 PadiFactory : 
 <a target="_blank" href="https://www.smartscan.cash/address/0x4cb70De91e6Bb85fB132880D5Af3418477a90083">0x4cb70De91e6Bb85fB132880D5Af3418477a90083</a><br>
 Init Code Hash: 
@@ -77,9 +77,9 @@ Init Code Hash:
 
 Cube Network Testnet<br>
 PadiRouter : 
-<a target="_blank" href="[[https://www.smartscan.cash/address/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207](https://testnet.cubescan.network/en-us/address/0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14?tab=Contract)">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
+<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14?tab=Contract">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
 PadiFactory : 
-<a target="_blank" href="[https://www.smartscan.cash/address/0x4cb70De91e6Bb85fB132880D5Af3418477a90083](https://testnet.cubescan.network/en-us/address/0x78491c44fc63067b19e1ba4eef379f358123b552?tab=Contract)">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
+<a target="_blank" href="https://testnet.cubescan.network/en-us/address/0x78491c44fc63067b19e1ba4eef379f358123b552?tab=Contract">0x78491C44FC63067B19E1Ba4EeF379f358123B552</a><br>
 Init Code Hash: 
 0x956dcbe9b4fb6f7108d6d2b979983b70fa53be0604be386445f5150f79890964<br>
 </p>
