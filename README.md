@@ -2,17 +2,14 @@
 <br>
 Padi Swap (BSC): 
 <a target="_blank" href="https://bscscan.com/token/0x1c2ddb78f1fbde389d15acd275ce6b51eafbba14">0x1C2DdB78F1fBDE389D15acd275ce6b51EAFbBA14</a><br>
-<br>
 Ganesha (Harmony): 
 <a target="_blank" href="https://explorer.harmony.one/address/0x407020022e693595b0d52520a8402dcaf0ff6066?activeTab=7">0x407020022e693595b0D52520A8402dcAF0ff6066</a><br>
-  
 Sweta Dwipa (CELO): 
 <a target="_blank" href="https://explorer.celo.org/token/0x5c68fB7B31D4B0d0208D75057fbdcCc949531f59/token-transfers">0x5c68fB7B31D4B0d0208D75057fbdcCc949531f59</a><br>
-<br> 
 Tokai Token (VELAS)
 <a target="_blank" href="https://evmexplorer.velas.com/token/0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207/token-transfers">0xF0347aD4Fcb6620CB6c0BF3f33C7C4D857055207</a><br>
 Padi USD (VELAS)
-<a target="_blank" href="https://evmexplorer.velas.com/token/0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407/token-transfers">0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407</a><br>
+<a target="_blank" href="https://evmexplorer.velas.com/token/0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407/token-transfers">0xe617D20245c9ffBDae17ecA5FBFe142fB22C6407</a>
 <br>    
 PadiRouter : 
 <a target="_blank" href="https://bscscan.com/address/0xB968803EB0D91C25C8d586b102752eeFd6e76E1F#code">0xB968803EB0D91C25C8d586b102752eeFd6e76E1F</a><br>
